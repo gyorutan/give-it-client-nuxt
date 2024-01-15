@@ -1,7 +1,7 @@
 <template>
   <div class="h-screen md:flex md:justify-center md:items-center">
     <div
-      class="md:w-[500px] md:border md:border-zinc-700 px-[50px] py-[90px] md:rounded-md"
+      class="md:w-[500px] md:border md:border-zinc-700 px-[50px] py-[50px] md:rounded-md"
     >
       <form class="flex flex-col gap-4" @submit.prevent="handleLogin">
         <div class="flex flex-col gap-4">
